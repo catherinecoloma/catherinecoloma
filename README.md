@@ -1,4 +1,6 @@
 ## Hi there 👋
+I'm Catherine Coloma!
+I'm a designer and developer.
 
 <!--
 **catherinecoloma/catherinecoloma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
